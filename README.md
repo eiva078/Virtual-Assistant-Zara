@@ -26,6 +26,6 @@ Zara is a simple virtual assistant built using Python. It can perform basic task
 1. **Clone the Repository**
 
    ```bash
-   git clone https://github.com/your-username/your-repo-name.git
+   git clone https://github.com/eiva078/Virtual-Assistant-Zara.git
    cd your-repo-name
    ```
